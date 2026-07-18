@@ -1,2 +1,9 @@
-csa
 
+
+Working Directory ---> Staging Area ---> Remote Repository
+
+
+
+git add .
+git commit -m "commit-message"
+git push -u origin master
